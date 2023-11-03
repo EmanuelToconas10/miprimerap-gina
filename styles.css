@@ -124,7 +124,7 @@ footer {
     display: flex;
     justify-content: center;
     width: 100%;
-    margin: 0 1;
+    margin: 0 0px;
     /* probremas en las 3 fotos no se alinean se debe agregar "flex-wrap: wrap;"*/
 }
 /* Codigo que nose si funciona */
