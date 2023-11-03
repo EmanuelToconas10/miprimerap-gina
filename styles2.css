@@ -28,11 +28,13 @@
     width: 80%;
     margin: 10px auto;
     padding: 50px;
+    align-items: center;
 }
   
   .Contactanos h1 {
     font-size: 30px;
     margin-bottom: 20px;
+    align-items: center;
   }
   
   /* ------------- Formulario ------------- */
@@ -41,6 +43,8 @@
     background-color: #f6f7f8;
     border: 1px solid #d6d9dc;
     border-radius: 3px;
+    justify-content: center;
+    align-items: center;
   
     width: 80%;
     padding: 50px;
@@ -54,6 +58,7 @@
     justify-content: flex-start;
     flex-direction: column;
     flex-wrap: wrap;
+    align-items: center;
   }
   
   .form-row input[type="text"] {
@@ -63,11 +68,13 @@
     width: 100%;
     padding: 7px;
     font-size: 14px;
+    align-items: center;
   }
   
   .form-row label {
     margin-bottom: 3px;
     text-align: initial;
+    align-items: center;
   }
   /* ------------- Para Pantallas de más de 700px ------------- */
 @media only screen and (min-width: 700px) {
@@ -98,6 +105,7 @@
     width: 100%;
     padding: 7px;
     font-size: 14px;
+    align-items: center;
   }
   .form-row textarea {
     font-family: "Helvetica", "Arial", sans-serif;
@@ -107,6 +115,7 @@
     background-color: #bdbdbd;
     border: 0;
     border-radius: 6px;
+    align-items: center;
   
   
     min-height: 200px;
@@ -138,6 +147,7 @@
       
         padding: 10px 40px;
         cursor: pointer;
+        align-items: center;
       }
       
       
@@ -156,4 +166,5 @@
       
       .form-row button {
           margin-left: 120px;
+          align-items: center;
         }

@@ -47,7 +47,12 @@ header nav ul li a {
     margin: 0;
     padding: 0;
 }
-
+.acerca-de2 {
+    background-color: #ffffff;
+    color: rgb(14, 15, 15);
+    flex-wrap: wrap;
+    width: 100%;
+}
 /* Borrar el 2 en .seccion */
 .seccion-1 {
     flex-wrap: wrap;
