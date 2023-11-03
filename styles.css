@@ -228,3 +228,13 @@ footer {
 #check:checked ~ .checkbtn {
     color: black;
 }
+/* Div agregado 2/11 */
+.greeting {
+    background-color: #f0f0f0; /* Cambia el color de fondo según tus preferencias */
+    padding: 20px; /* Añade relleno para separar el contenido del borde */
+    border: 2px solid #333; /* Agrega un borde alrededor del elemento */
+    border-radius: 10px; /* Redondea las esquinas del elemento */
+    text-align: center; /* Centra el texto en el elemento */
+    font-size: 16px; /* Tamaño de fuente */
+    color: #333; /* Color del texto */
+}
